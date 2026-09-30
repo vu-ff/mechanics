@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Theoretical Mechanics">
+  <rect width="32" height="32" rx="7" fill="#0e5a5a"/>
+  <!-- A pendulum and the arc it swings through: the course's first worked
+       example, and the mark the collection's front page already gives the
+       course (../mphys/tools/render.py, GLYPHS["mechanics"]). -->
+  <g stroke="#eef6f6" stroke-width="2.2" stroke-linecap="round" fill="none">
+    <path d="M16 5 L21.8 19.2"/>
+    <path d="M8.2 17.6 A 15.4 15.4 0 0 0 26.4 14.6" stroke-width="1.7" stroke-dasharray="2.2 3.2"/>
+  </g>
+  <circle cx="16" cy="5" r="1.9" fill="#eef6f6"/>
+  <circle cx="22.4" cy="20.8" r="3.4" fill="#eef6f6"/>
+</svg>
